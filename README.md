@@ -93,5 +93,4 @@ four_ops/
   grader.py           判分
   cli.py              参数校验与文件读写
 tests/                单元测试（6 个测试文件，共 123 个用例）
-docs/superpowers/     设计规格与实现计划
 ```
